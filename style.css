@@ -81,6 +81,11 @@ body {
   color: #3498db;
 }
 
+.timeline-item-content h3 {
+  margin: 0;
+  color: #555;
+}
+
 .timeline-item-content p {
   margin: 0;
   color: #555;
